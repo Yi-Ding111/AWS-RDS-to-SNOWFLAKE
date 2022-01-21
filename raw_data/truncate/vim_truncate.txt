@@ -1,0 +1,1 @@
+vim video_data.csv1, 10000 w ./video_data2.csv

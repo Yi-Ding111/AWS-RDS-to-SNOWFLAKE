@@ -1,0 +1,8 @@
+midir python
+
+cd python
+
+#install required package
+
+pip3 install mysql-replication boto3 -t .
+
